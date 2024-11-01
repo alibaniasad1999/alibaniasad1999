@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with machine learning algorithms for robotics
 - 💬 Ask me about robotics, AI, and automation
 - 📫 How to reach me: [Email](mailto:alibaniasad1999@yahoo.com)
-- ⚡ Fun fact: I built my first robot at the age of 12
+- ⚡ Fun fact: I built my first robot at the age of 12, and I love vim.
 
 <div align="right">
     <img src="https://komarev.com/ghpvc/?username=alibaniasad1999&style=for-the-badge">
@@ -14,14 +14,12 @@
 
 ---
 
-## :information_desk_person:  About Me
-- I am a certified Robotic Engineer with experience in both hardware and software development.
-- Currently, I am working on my paper which is about robotics and reinforcement learning.
-- My programming experience is summarized in the table below.
-- Currently, I am a robotics engineer at Sharif University of Technology.
-- I’m looking to expand my workspace with new and innovative robotics projects.
-- I have a strong interest in Reinforcement Learning and its applications in robotics.
-- Contact me through my <a href="mailto:alibaniasad1999@yahoo.com">Email</a> address for further details.
+## :information_desk_person: About Me
+- I am a certified Aerospace Engineer with expertise in hardware and software development, currently engaged in research on robotics and reinforcement learning.
+- I hold a position as an aerospace engineer at Sharif University of Technology.
+- My programming experience and technical skills are summarized in the table below.
+- I am enthusiastic about exploring innovative projects in robotics, with a strong focus on reinforcement learning applications.
+- For further inquiries, please feel free to reach out via <a href="mailto:alibaniasad1999@yahoo.com">Email</a>.
 
 ---
 
