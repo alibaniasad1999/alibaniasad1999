@@ -216,8 +216,8 @@
     <!--img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=10&layout=compact&hide=c%2B%2B,CMake,C"-->
 <!--/div-->
 <div align="center">
-    <img height="200em" src="https://streak-stats.demolab.com/?user=EleoXDA&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=10&hide_progress=true&layout=compact&hide=c%2B%2B,CMake,C"/>
+    <img height="200em" src="https://streak-stats.demolab.com/?user=alibaniasad1999&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibaniasad1999&langs_count=10&hide_progress=true&layout=compact&hide=c%2B%2B,CMake,C"/>
 </div>
 <div align="center">
 </div>
