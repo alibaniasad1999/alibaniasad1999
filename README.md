@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on my master in Robotic Engineering
 - 🌱 I’m currently learning advanced robotics and AI
 - 👯 I’m looking to collaborate on robotics projects
-- 🤔 I’m looking for help with machine learning algorithms for robotics
 - 💬 Ask me about robotics, AI, and automation
 - 📫 How to reach me: [Email](mailto:alibaniasad1999@yahoo.com)
 - ⚡ Fun fact: I built my first robot at the age of 12, and I love vim.
