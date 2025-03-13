@@ -100,9 +100,6 @@
     <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alibaniasad1999&theme=github"/>
 
 </div>
-<div align="center">
-    <img height="200em" src="https://streak-stats.demolab.com/?user=alibaniasad1999&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)"/>
-</div>
 
 
 
