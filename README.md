@@ -20,24 +20,28 @@
 
 Aerospace Engineer with M.S. from **Sharif University of Technology**, specializing in robotics, reinforcement learning, and control systems. Currently working as a **Robotics Engineer at Fasta Robotics**, developing multi-rotor autopilot and control systems.
 
-```python
-class AliBaniAsad:
-    def __init__(self):
-        self.role = "Robotics Engineer"
-        self.company = "Fasta Robotics"
-        self.education = "M.S. Aerospace Engineering @ Sharif University of Technology"
-        self.research_interests = [
-            "Reinforcement Learning",
-            "Robotics",
-            "Multi-Agent Systems",
-            "Automatic Control",
-            "Game Theory",
-            "Embedded ML"
-        ]
-        self.languages = ["Python", "C/C++", "Embedded C", "MATLAB"]
+```cpp
+class AliBaniAsad {
+public:
+    std::string role = "Robotics Engineer";
+    std::string company = "Fasta Robotics";
+    std::string education = "M.S. Aerospace Engineering @ Sharif University of Technology";
 
-    def say_hi(self):
-        print("Thanks for visiting my profile!")
+    std::vector<std::string> research_interests = {
+        "Reinforcement Learning",
+        "Robotics",
+        "Multi-Agent Systems",
+        "Automatic Control",
+        "Game Theory",
+        "Embedded ML"
+    };
+
+    std::vector<std::string> languages = {"Python", "C/C++", "Embedded C", "MATLAB"};
+
+    void sayHi() {
+        std::cout << "Thanks for visiting my profile!" << std::endl;
+    }
+};
 ```
 
 ---
@@ -177,22 +181,17 @@ class AliBaniAsad:
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alibaniasad1999&theme=tokyonight" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=alibaniasad1999&theme=tokyonight&hide_border=true&border_radius=10" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=alibaniasad1999&theme=tokyo-night&hide_border=true&radius=10" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alibaniasad1999&theme=tokyonight" />
 </div>
 
 <div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alibaniasad1999&theme=tokyonight" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alibaniasad1999&theme=tokyonight" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alibaniasad1999&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alibaniasad1999&theme=tokyonight&utcOffset=3.5" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=alibaniasad1999&theme=tokyo-night&hide_border=true&radius=10" />
 </div>
 
 ---
